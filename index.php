@@ -1,5 +1,3 @@
-<h2>hello world.</h2>
+<?php
 
-<strong>This is my github home page</strong>
-
-by mot
+phpinfo();
